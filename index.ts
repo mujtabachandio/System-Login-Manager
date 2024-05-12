@@ -4,12 +4,12 @@ const prompt = PromptSync();
 
 // user list
 const users_list: string[] = [
-    "mujtaba", "asad ali", "murtaza"
+    "mujtaba", "asad ali", "murtaza","jawad"
 ]
 
 // user password
 const user_password_data:string[] = [
-    "mujtaba1234","asad1234","murtaza1234",
+    "mujtaba1234","asad1234","murtaza1234","jawad1234"
 ];
 
 const user_name = prompt("Enter your name: ");
